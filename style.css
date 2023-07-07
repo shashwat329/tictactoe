@@ -59,3 +59,15 @@ button{
     cursor: pointer;
 
 }
+@media (max-width: 400px){
+    .gamecontainer{
+        height: 300px;
+        width: 300px;
+        margin: auto;
+    }
+    .gameinfo{
+        position: relative;
+        top:120px;
+        right: 92px;
+    }
+}
